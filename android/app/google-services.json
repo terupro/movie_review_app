@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "842127573993",
+    "project_id": "movie-review-app-7eae9",
+    "storage_bucket": "movie-review-app-7eae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842127573993:android:04ee873988e43612b9c178",
+        "android_client_info": {
+          "package_name": "net.terupro.movie_review_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842127573993-kvj2fs7or89sngfop4uvtokk773hva3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-DWto6dRFgy_CfxCDFPpR1QljYJ0u9rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842127573993-kvj2fs7or89sngfop4uvtokk773hva3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842127573993-no7g3ck2771tjspqdgui0i2d74ncs0na.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.terupro.ReviewApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
